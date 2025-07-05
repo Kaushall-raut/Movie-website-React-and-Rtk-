@@ -66,13 +66,14 @@ src/
 
 ## 📸 Screenshots
 
-🏠 Home Page
-![alt text](src\assets\image-1.png)
+## 🏠 Home Page
+
+![Home Page](src/assets/image-1.png)
 
 ## 🎬 Movie Detail Page
 
-![alt text](src\assets\image-1.png)
+![Movie detail page](src/assets/image-1.png)
 
 ## 🔍 Search Result Page
 
-![alt text](src\assets\image-2.png)
+![search result page](src/assets/image-2.png)
