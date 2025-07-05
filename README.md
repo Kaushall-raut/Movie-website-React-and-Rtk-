@@ -68,7 +68,7 @@ src/
 
 ## 🏠 Home Page
 
-![Home Page](src/assets/image-1.png)
+![Home Page](src/assets/image.png)
 
 ## 🎬 Movie Detail Page
 
