@@ -67,12 +67,12 @@ src/
 ## 📸 Screenshots
 
 🏠 Home Page
-![alt text](image.png)
+![alt text](src\assets\image-1.png)
 
 ## 🎬 Movie Detail Page
 
-![alt text](image-1.png)
+![alt text](src\assets\image-1.png)
 
 ## 🔍 Search Result Page
 
-![alt text](image-2.png)
+![alt text](src\assets\image-2.png)
